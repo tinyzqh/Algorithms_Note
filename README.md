@@ -49,3 +49,8 @@
 
 ## [17-机器博弈](./17-机器博弈)
 
+
+## 参考
+
+- [nlp_notes](https://github.com/YangBin1729/nlp_notes)
+
