@@ -4,6 +4,8 @@
 ## [01-Python学习](./01-Python学习)  
 
 - [Scipy处理稀疏矩阵](./01-Python学习/Scipy中的稀疏矩阵运算.ipynb)
+- [Pandas](./01-Python学习/Pandas.ipynb)
+- [操作Json文件](./01-Python学习/操作Json文件操作.ipynb)
 
 ## [02-线性代数](./02-线性代数)  
 
@@ -26,6 +28,7 @@
 
 - [Attention机制](./07-深度学习/Attention机制.ipynb)
 - [Transformer](./07-深度学习/Transformer.ipynb)
+- [指针网络](./07-深度学习/指针网络.ipynb)
 
 ## [08-自然语言处理](./08-自然语言处理)
 
@@ -38,6 +41,7 @@
 ## [12-组合优化](./12-组合优化)
 
 - [遗传算法求解TSP问题](./12-组合优化/遗传算法求解TSP问题.ipynb)
+- [分支定界](./12-组合优化/分支定界.ipynb)
 
 ## [13-机器视觉](./13-机器视觉)
 
