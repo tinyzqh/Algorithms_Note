@@ -1,0 +1,56 @@
+
+Gurobi 9.1.2 (mac64) logging started Sat Aug 14 21:52:30 2021
+
+Changed value of parameter LogFile to class2_MultiAssignmentLog.log
+   Prev:   Default: 
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 40 rows, 400 columns and 800 nonzeros
+Model fingerprint: 0xf3ec5400
+Variable types: 0 continuous, 400 integer (400 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+---------------------------------------------------------------------------
+Multi-objectives: starting optimization with 2 objectives (1 combined) ...
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+Multi-objectives: optimize objective 1 (weighted) ...
+---------------------------------------------------------------------------
+
+Optimize a model with 40 rows, 400 columns and 800 nonzeros
+Model fingerprint: 0x6bc89393
+Variable types: 0 continuous, 400 integer (400 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e-01, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective -484.7000000
+Presolve time: 0.01s
+Presolved: 40 rows, 400 columns, 800 nonzeros
+Variable types: 0 continuous, 400 integer (400 binary)
+
+Root relaxation: objective -8.391000e+02, 40 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -839.1000000 -839.10000  0.00%     -    0s
+
+Explored 0 nodes (40 simplex iterations) in 0.24 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -839.1 -484.7 
+No other solutions better than -839.1
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -8.391000000000e+02, best bound -8.391000000000e+02, gap 0.0000%
+
+---------------------------------------------------------------------------
+Multi-objectives: solved in 0.27 seconds, solution count 2
+
