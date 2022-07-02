@@ -23,13 +23,48 @@
 
 ## [06-深度学习框架](./06-深度学习框架)
 
+- [PyTorch教程1-Tensor核心知识点](./06-深度学习框架/PyTorch教程1-Tensor核心知识点.ipynb)
+- [PyTorch教程2-DataSet与DataLoaders](./06-深度学习框架/PyTorch教程2-DataSet与DataLoaders.ipynb)
+- [PyTorch教程3-DataSet与DataLoaders源码解析](./06-深度学习框架/PyTorch教程3-DataSet与DataLoaders源码解析.ipynb)
+- [PyTorch教程4-神经网络基础功能模块](./06-深度学习框架/PyTorch教程4-神经网络基础功能模块.ipynb)
+- [PyTorch教程5-nn.Module类的源码讲解](./06-深度学习框架/PyTorch教程5-nn.Module类的源码讲解.ipynb)
+- [PyTorch教程6-自动微分以及autograd的使用.ipynb](./06-深度学习框架/PyTorch教程6-自动微分以及autograd的使用.ipynb)
+- [PyTorch教程7-神经网络整体训练流程](./06-深度学习框架/PyTorch教程7-神经网络整体训练流程.ipynb)
+- [PyTorch教程8-保存与加载PyTorch训练模型和超参数](./06-深度学习框架/PyTorch教程8-保存与加载PyTorch训练模型和超参数.ipynb)
+
 ## [07-深度学习](./07-深度学习)
 
-- [Attention机制](./07-深度学习/Attention机制.ipynb)
-- [Transformer](./07-深度学习/Transformer.ipynb)
-- [指针网络](./07-深度学习/指针网络.ipynb)
+### [01-深度学习基础](./07-深度学习/01-深度学习基础)
+
+
+### [02-卷积神经网络](./07-深度学习/02-卷积神经网络)
+
+
+- [01-卷积网络代码级原理理解](./07-深度学习/02-卷积神经网络/01-卷积网络代码级原理理解.ipynb)
+- [02-卷积操作在PyTorch中实现与使用](./07-深度学习/02-卷积神经网络/02-卷积操作在PyTorch中实现与使用.ipynb)
+- [03-卷积算子融合](./07-深度学习/02-卷积神经网络/03-卷积算子融合.ipynb)
+
+### [03-循环神经网络](./07-深度学习/03-循环神经网络)
+
+- [01-序列模型、语言模型](./07-深度学习/03-循环神经网络/01-序列模型、语言模型.ipynb)
+- [02-RNN原理与Numpy实现](./07-深度学习/03-循环神经网络/02-RNN原理与Numpy实现.ipynb)
+- [03-LSTM原理与Numpy实现](./07-深度学习/03-循环神经网络/03-LSTM原理与Numpy实现.ipynb)
+- [04-GRU原理与Numpy实现](./07-深度学习/03-循环神经网络/04-GRU原理与Numpy实现.ipynb)
+
+### [04-Transformer](./07-深度学习/04-Transformer)
+
+- [01-Transformer-API详解](./07-深度学习/04-Transformer/01-Transformer-API详解.ipynb)
+- [02-Attention机制](./07-深度学习/04-Transformer/02-Attention机制.ipynb)
+- [03-Transformer全流程代码](./07-深度学习/04-Transformer/03-Transformer全流程代码.ipynb)
+
+### [05-图网络](./07-深度学习/05-图网络)
+### [06-生成对抗学习](./07-深度学习/06-生成对抗学习)
+### [07-多任务学习](./07-深度学习/07-多任务学习)
+### [08-少样本学习](./07-深度学习/08-少样本学习)
 
 ## [08-自然语言处理](./08-自然语言处理)
+
+
 
 ## [09-推荐系统](./09-推荐系统)
 
